@@ -38,7 +38,7 @@ Hey, I'm Shadou. I'm from germany and 19 Years old I'm a Discord bot Developer &
 - 👨🏻‍💻 I’m a Linux Lover
 - 💻 I’m hosting my stuff on my Ubuntu 20.04 VPS mostly
 - 💬 Ask me anything about discord bots, I'm glad when I can help <3
-- 📫 How to reach me:<br>
+- 📫 How to contact me:<br>
                            ![Discord](https://discord.c99.nl/widget/theme-2/244541945559515137.png)
                            <br>
                       - Discord: [Shadoukita#2959](https://discord.com/users/244541945559515137)
