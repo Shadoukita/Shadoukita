@@ -20,7 +20,7 @@
 </p>
 <br/>
 
-Hey, I'm Shadou. I'm from germany and 19 Years old I'm a Discord bot Developer & Server Admin, I'm on Discord since 2016 and use it actively since then. I started learning coding in 2019. I know a bit Python and right now I'm learning Javascript. I also do some basic HTML with open source codes and made a <a href="https://shadoukita.tk" target="_Blank">Linktree</a> for myself and <a href="https://shizume.tk" target="_Blank">Shizume</a>.
+Hey, I'm Shadou. I'm from germany and 20 Years old I'm a Discord bot Developer & Server Admin, I'm on Discord since 2016 and use it actively since then. I started learning coding in 2019. I know a bit Python and right now I'm learning Javascript. I also do some basic HTML with open source codes and made a <a href="https://shadoukita.tk" target="_Blank">Linktree</a> for myself and <a href="https://shizume.tk" target="_Blank">Shizume</a>.
 
 <br/>
 <br/>
@@ -29,7 +29,7 @@ Hey, I'm Shadou. I'm from germany and 19 Years old I'm a Discord bot Developer &
 
 - 🧐 Nickname: Shadoukita
 - 🧐 Residence: Germany
-- 🧐 Age: 19
+- 🧐 Age: 20
 - 🧐 Pronouns: He/him
 <br>
 
