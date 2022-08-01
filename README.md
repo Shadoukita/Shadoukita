@@ -41,7 +41,7 @@ Hey, I'm Shadou. I'm from germany and 20 Years old I'm a Discord bot Developer &
 - 📫 How to contact me:<br>
                            ![Discord](https://discord.c99.nl/widget/theme-2/244541945559515137.png)
                            <br>
-                      - Discord: [Shadoukita#2959](https://discord.com/users/244541945559515137)
+                      - Discord: [Shadoukita#8573](https://discord.com/users/244541945559515137)
                       <br>
                       - Github: [Shadoukita](https://github.com/Shadoukita)
                       <br>
