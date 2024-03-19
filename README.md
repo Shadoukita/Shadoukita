@@ -38,7 +38,6 @@ Hey, I'm Shadou. I'm from germany and 21 Years old I'm a Discord bot Developer &
 - 🔭 I’m currently working on **Shizume** a Discord bot
 - 🌱 Languages I know: Python, Java, PostgreSQL & HTML
 - 👨🏻‍💻 I’m a Linux Lover
-- 💻 Hacked FritzBoxes so far: 6591 Cable
 - 💬 Ask me anything about discord bots, I'm glad when I can help <3
 - 📫 How to contact me:<br>
                            ![Discord](https://discord.c99.nl/widget/theme-2/244541945559515137.png)
