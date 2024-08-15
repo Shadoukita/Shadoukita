@@ -29,7 +29,7 @@ Hey, I'm Shadou. I'm from germany and 21 Years old I'm a Discord bot Developer &
 
 - 🧐 Nickname: Shadoukita
 - 🧐 Residence: Germany / NRW
-- 🧐 Age: 21
+- 🧐 Age: 22
 <br>
 
 - 🔭 Currently Inactive!
