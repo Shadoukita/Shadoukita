@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/244541945559515137"><img width="41px" alt="Discord" title="My Discord" src="https://i.imgur.com/yUezpbT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://shadoukita.ml/"><img width="41px" alt="Dev.to" title="My Website" src="https://i.imgur.com/UUWWcRz.png"></a>
+  <a href="https://shadoukita.com/"><img width="41px" alt="Dev.to" title="My Website" src="https://i.imgur.com/UUWWcRz.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
