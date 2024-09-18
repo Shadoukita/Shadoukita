@@ -50,4 +50,4 @@ Hey, I'm Shadou. I'm from germany and 22 Years old and I am a Network Engineer, 
 </br>
 
 ### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21imd2xi2tr6gkykpfns57yta&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/1HppwsRkgWZLBlftD6OMGk?si=JWr8gbd8SiKuLCXvIgiLaw)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21imd2xi2tr6gkykpfns57yta&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/1HppwsRkgWZLBlftD6OMGk?si=JWr8gbd8SiKuLCXvIgiLaw)
