@@ -32,8 +32,6 @@ Hey, I'm Shadou. I'm from germany and 22 Years old and I am a Network Engineer, 
 - 🧐 Age: 22
 <br>
 
-- 🔭 Currently Inactive!
-
 
 - 🔭 I’m currently working on **Shizume** a Discord bot
 - 🌱 Skills I have: Python, Java, HTML, CSS, PHP, Databases (PostgreSQL, MariaDB)
