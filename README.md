@@ -29,7 +29,7 @@ Hey, I'm Shadou. I'm from germany and 22 Years old and I am a Network Engineer, 
 
 - 🧐 Nickname: Shadoukita
 - 🧐 Residence: Germany / NRW
-- 🧐 Age: 22
+- 🧐 Age: 23
 <br>
 
 
