@@ -20,7 +20,7 @@
 </p>
 <br/>
 
-Hey, I'm Shadou. I'm from germany and 23 Years old and I am a Network Engineer, I'm on Discord since 2016 and use it actively since then. I started learning coding in 2019.
+Hey, I'm Shadou. I'm from germany and 24 Years old and I work as a IT-Specalist, I'm on Discord since 2016 and use it actively since then. I started learning coding in 2019.
 
 <br/>
 <br/>
@@ -29,7 +29,7 @@ Hey, I'm Shadou. I'm from germany and 23 Years old and I am a Network Engineer, 
 
 - 🧐 Nickname: Shadoukita
 - 🧐 Residence: Germany / NRW
-- 🧐 Age: 23
+- 🧐 Age: 24
 <br>
 
 
