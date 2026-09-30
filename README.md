@@ -53,7 +53,6 @@ Certified IT Systems Electronics Technician · Linux lover · runs a homelab bui
 
 <a href="https://github.com/Shadoukita/Listly"><img src="https://raw.githubusercontent.com/Shadoukita/Shadoukita/HEAD/assets/card-listly.svg" width="100%" alt="Listly. — self-hosted household management: shared shopping lists, recipe cookbook, meal planner and storage inventory. Vue 3, Flask, SQLite, Docker, PWA"></a>
 <a href="https://github.com/Shadoukita/ShadouCMDB"><img src="https://raw.githubusercontent.com/Shadoukita/Shadoukita/HEAD/assets/card-shadoucmdb.svg" width="100%" alt="ShadouCMDB — a self-hosted Configuration Management Database in Rust (Axum, sqlx) on PostgreSQL with a Vue 3 UI"></a>
-<a href="https://github.com/Shadoukita/FeralHeart"><img src="https://raw.githubusercontent.com/Shadoukita/Shadoukita/HEAD/assets/card-feralheart.svg" width="100%" alt="FeralHeart — the 2011 C++ codebase modernized: OGRE 1.7 to 14.5, x64, OpenGL, new water and sky, soft shadows, bloom, Argon2id auth"></a>
 
 <pre>
 <b>shadou@github</b>:<b>~/repos</b>$ ls -la --the-rest
